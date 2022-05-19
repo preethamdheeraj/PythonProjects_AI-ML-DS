@@ -1,2 +1,2 @@
-# Python_Projects
-Repository for testing and releasing projects made in Python including AI &amp;  ML
+# PythonProjects_AI&ML&DS
+Repository for testing and releasing projects made in Python.
